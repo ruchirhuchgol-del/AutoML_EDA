@@ -169,10 +169,6 @@ This implementation includes several industry-grade features:
 4. Add tests if applicable
 5. Submit a pull request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🆘 Support
 
 For issues, questions, or contributions, please open an issue on the GitHub repository.
